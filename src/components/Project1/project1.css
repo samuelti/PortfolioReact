@@ -1,0 +1,11 @@
+.project1{
+    background-image: url('https://edit.co.uk/uploads/2016/12/Image-1-Alternatives-to-stock-photography-Thinkstock.jpg');
+    width: 350px;
+    height:350px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.project1:hover{
+opacity: .5;
+}
