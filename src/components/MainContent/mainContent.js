@@ -3,6 +3,7 @@ import Header from '../Header/header';
 import About from '../About/about';
 import Contact from '../ContactMe/contactMe'
 import PortfolioContainer from '../PortfolioContainer/portfolioContainer';
+import Resume from '../Resume/resume';
 
 export default function MainContent() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -20,6 +21,9 @@ export default function MainContent() {
         return <Contact />;
       }
     //return <Contact />;
+    if (currentPage === 'Resume') {
+      return <Resume />
+    }
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
