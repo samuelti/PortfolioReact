@@ -4,7 +4,7 @@ import "./project2.css";
 export default function Project2() {
   return (
     <div
-    className=" work project2"
+    className=" work projectTwo"
     >
       <div >
         <a href="https://remembering-calculator.herokuapp.com/">Remember Calculator</a>

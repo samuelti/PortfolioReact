@@ -4,7 +4,7 @@ import "./project1.css";
 export default function Project1() {
   return (
     <div
-    className="work project1"
+    className="work projectOne"
     >
       <div >
         <a href="https://github.com/ts795/mini-project-third-party.git">Cocktail Library</a>
