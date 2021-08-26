@@ -7,8 +7,8 @@ export default function Project1() {
     className="project1"
     >
       <div >
-        <a href="#">Cocktail Library</a>
-        <a href="#"><i className="fab fa-github"></i></a>
+        <a href="https://github.com/ts795/mini-project-third-party.git">Cocktail Library</a>
+        <a href="https://hugh18019.github.io/Drinks-Library/"><i className="fab fa-github"></i></a>
       </div>
     </section>
   );
