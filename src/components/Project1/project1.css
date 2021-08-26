@@ -6,6 +6,13 @@
     vertical-align: middle;
 }
 
+.project1{
+    width: 350px;
+    height:350px;
+    text-align: center;
+    vertical-align: middle;
+}
+
 .project1:hover{
 opacity: .5;
 }
