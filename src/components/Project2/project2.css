@@ -1,7 +1,4 @@
-.projectTwo{
-    background-image: url('https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Calculator.JPG');
- 
-}
+
 
 .work{
     width: 350px;
@@ -10,6 +7,6 @@
     vertical-align: middle;
 }
 
-.project2:hover{
+.projectTwo:hover{
 opacity: .5;
 }
