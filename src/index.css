@@ -12,12 +12,25 @@ code {
     monospace;
 }
 
-.projectOne{
-  background-image: url('https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Capture.JPG');
 
+.work{
+  width: 350px;
+  height:350px;
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: 20px;
+  padding: 20px;
+ 
 }
 
-.projectTwo{
-  background-image: url('https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Calculator.JPG');
+.project:hover{
+opacity: .5;
+}
+
+.image{
+  width: 350px;
+  height:350px;
+  background-size: cover;
+  background-repeat: no-repeat;
 
 }
