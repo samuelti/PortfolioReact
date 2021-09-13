@@ -16,31 +16,31 @@ export default function PortfolioContainer() {
       name: "Remember Calculator",
       linkGithub: "https://github.com/samuelti/Remeber_Calculator",
       linkDeployed: "https://remembering-calculator.herokuapp.com/",
-      img: "https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Calculator.JPG",
+      img: 'https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Remember.jpg',
     },
     {
       name: "README Generator",
       linkGithub: "https://github.com/samuelti/08-README-Generator/blob/master/Develop/index.js",
       linkDeployed: "",
-      img: "",
+      img: "https://samuelti.github.io/My-Class-Repo/02_homework/Assets/READMEgen.JPG",
     },
     {
       name: "Password Generator",
       linkGithub: "https://github.com/samuelti/3-passwordGenerator.git",
       linkDeployed: "https://samuelti.github.io/3-passwordGenerator/index.html",
-      img: "",
+      img: "https://samuelti.github.io/My-Class-Repo/02_homework/Assets/password.JPG",
     },
     {
       name: "Note Taker",
       linkGithub: "https://github.com/samuelti/11_Note_Taker",
       linkDeployed: "https://cool-note-taker-for-cool-dudes.herokuapp.com/notes",
-      img: "",
+      img: "https://samuelti.github.io/My-Class-Repo/02_homework/Assets/11-express-homework-demo-01.png",
     },
     {
       name: "Day Planner",
       linkGithub: "https://github.com/samuelti/EventPlanner",
       linkDeployed: "https://samuelti.github.io/EventPlanner/",
-      img: "",
+      img: "https://samuelti.github.io/My-Class-Repo/02_homework/Assets/Scheduler.JPG",
     },
   ];
   return (
